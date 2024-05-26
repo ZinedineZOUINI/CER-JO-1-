@@ -56,15 +56,9 @@ Quitter
 Suivez les instructions à l'écran pour naviguer dans le menu et utiliser les différentes fonctionnalités.
 
 
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-
-
-
-
-
-
-
-// Rapport de Projet :              Zinedine ZOUINI Naoufel BOUTIH MI04  
+Rapport de Projet :              Zinedine ZOUINI Naoufel BOUTIH MI04  
 
  
 
